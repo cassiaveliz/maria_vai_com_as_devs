@@ -8,3 +8,7 @@
 ###### **PRAZO:** Vocês terão 48 horas contando a partir da data que receberam este desafio para nos entregar por e-mail a apresentação da solução. As apresentações serão feitas de forma remota. Cada time irá receber uma data e horário, assim como o link para se conectar conosco. É interessante que possamos ver vocês para que a comunicação seja mais fácil, então o uso de webcams nesta etapa é bem-vindo.
 
 ###### **EQUIPE:** [Ana Carolina de Oliveira](https://github.com/acarolinaufg), [Andressa Miwa](https://github.com/andressamiwa), [Camila Severo Spijorin](https://github.com/millaspjiorin), [Cássia Aveliz](https://github.com/cassiaveliz), [Daviny Vidal](https://github.com/davinyvidal), [Karina Moura](https://github.com/kfmr), [Michelle Santos](https://github.com/MichelleSantos1).
+
+---
+
+- [Protótipo Figma](https://www.figma.com/proto/uFtVxRvaabvUlXdjJb3Po8/Tela-1?node-id=1%3A2&scaling=scale-down)
