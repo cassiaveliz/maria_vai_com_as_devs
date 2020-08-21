@@ -2,7 +2,8 @@
 
 #### Tela de Boas Vindas do Porguy - Seu Porquinho inteligente
 
-![Alt ou título da imagem](https://raw.githubusercontent.com/cassiaveliz/maria_vai_com_as_devs/master/telas_figma/BOAS%20VINDAS.png?token=AKWUJMUG5PBTFX4U52TS5SK7IAB3K)
+![Tela de Boas Vindas do Porguy - Seu Porquinho inteligente
+](/telas_figma/BOAS%20VINDAS.png)
 
 
 
